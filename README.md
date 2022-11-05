@@ -1,4 +1,4 @@
-# SummerSchool_Session3
+# Summer School Session3
 Repo with content and assignment for Session 3, Summer School - an Intro to Machine Learning
 ## Links
 * [Assignment Instructions](Assignment.md)  
